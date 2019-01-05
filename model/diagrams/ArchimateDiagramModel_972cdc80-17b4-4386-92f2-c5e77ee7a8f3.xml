@@ -1,4 +1,5 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="972cdc80-17b4-4386-92f2-c5e77ee7a8f3"/>
+    name="Main View"
+    id="972cdc80-17b4-4386-92f2-c5e77ee7a8f3"
+    documentation="Index View that integrate other views"/>
