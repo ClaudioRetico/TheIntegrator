@@ -278,8 +278,8 @@
       textAlignment="1"
       content="Main logical connections between analisys elemnets&#xD;&#xA;Click to navigate">
     <bounds
-        x="30"
-        y="336"
+        x="48"
+        y="432"
         width="185"
         height="80"/>
   </children>
