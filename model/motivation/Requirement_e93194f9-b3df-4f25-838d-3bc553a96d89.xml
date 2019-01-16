@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FR004: Be SOR transactional safe"
+    id="e93194f9-b3df-4f25-838d-3bc553a96d89"
+    documentation="Data extraction from SOR need to be &quot;transactional aware&quot; i.e. the event can be read and extracted ONLY AFTER generating business transaction is committed. In batch case will be applied the same logic: the business event will be fired only AFTER the batch give the commit."/>

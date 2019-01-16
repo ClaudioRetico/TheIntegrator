@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FR003: Transform SOR data in Business Data inside data lake"
+    id="0ab361af-56b2-4730-a36d-623cfdfd818e"
+    documentation="Significant business events data extracted from SOR will be transformed into data lake entities using two processes:&#xD;&#xA;- Enrichment: events data will be enriched with external and correlated data sources&#xD;&#xA;- Mapping: enriched event data will be mapped into correspondig standard or old style entities"/>

@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poste is not a real bank so we cannot accept &quot;lost transaction&quot; or &quot;negative account balance&quot;"
+    id="8db399b8-4078-4290-affe-a57c4dfb85ab"/>

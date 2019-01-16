@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FR008: Separate transformation/mapping step from enrichment step"
+    id="bc49ea27-fc32-4ed4-a158-e030e9e83133"
+    documentation="The enrichment and mapping need to be structurally completly separated"/>

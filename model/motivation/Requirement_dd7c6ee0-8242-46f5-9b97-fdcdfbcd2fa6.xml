@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FR007: For old API exposition map data lake over AS-IS"
+    id="dd7c6ee0-8242-46f5-9b97-fdcdfbcd2fa6"
+    documentation="For old and already realized API's try to converge to the common industry standard business entities model. If not possible, due to functional or operational reasons, maintain the actual target entities model."/>

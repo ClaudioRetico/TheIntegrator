@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FR009: Define a general enrich &amp; map engine with a parametric definition"
+    id="31decfe4-4985-4eb4-a615-c3cf8266f982"
+    documentation="Enrichment and mapping will be developed using a &quot;general pourpose engine&quot; with external parametrization"/>

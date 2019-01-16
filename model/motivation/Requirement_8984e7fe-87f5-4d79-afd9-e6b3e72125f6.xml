@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FR005: minimize side cache dirty read effects"
+    id="8984e7fe-87f5-4d79-afd9-e6b3e72125f6"
+    documentation="Considering the latency induced by extraction+enrichment+ mapping the solution will include a dirty read protection so that specific business entities in data lake would not be readable if exists events &quot;on the fly&quot; not yet reconditioned for data lake."/>

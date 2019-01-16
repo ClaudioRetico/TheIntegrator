@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FR001: Extract Business Info from SOR"
+    id="c7b9b773-0971-40ff-8f5b-8930e4ce3f4e"
+    documentation="To enable CQRS pattern, extract &quot;significat business events&quot; from SORs to build a side cache used for read oprations. A significat business event is one operation ora a group of coordinated operations (generally &quot;transactions&quot; but also batch) that change the status of a business related entity. The business related entity may depend from the target SOE so the significat business event could be mapped more than one data lake."/>

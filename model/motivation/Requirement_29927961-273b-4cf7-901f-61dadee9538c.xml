@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FR002: Define a business data model to apply in Data Lake"
+    id="29927961-273b-4cf7-901f-61dadee9538c"
+    documentation="Define a standard for business entity (with status and attribute) model. In other words maximize a standard choierent rapresentation of business entity inside the data lakes. "/>
