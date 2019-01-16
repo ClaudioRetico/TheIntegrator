@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NFR004: the solution need to implement an operational architecture with local HA in every fisical or logica layer "
+    id="a03ca99d-4556-4e0e-ad4e-fa69f36d52d2"/>
