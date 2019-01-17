@@ -1,5 +1,4 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NFR011: Solution need to be compliant with operative system policy"
-    id="5ea88b33-05ba-49b2-92ad-b7d38751a3e0"
-    documentation="All VM/Container/... need to be compliant with hardening security policies. As example the root user never need to be used in solution."/>
+    id="5ea88b33-05ba-49b2-92ad-b7d38751a3e0"/>
