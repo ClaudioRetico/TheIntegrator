@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NFR010: solution's operationla layout (in any environment) need to be compliant with 3 layer network segregation policy"
+    id="3a53cb61-624a-49cb-801e-f6847db48ed8"
+    documentation="Network is rigidly devided in 3 layers (Presentation, Application, Back end/DB). Each one separated from the other with firewall/balancers and in ANY case will exists VM or container that access  two layers. The solution need to be compliant with that architecture."/>

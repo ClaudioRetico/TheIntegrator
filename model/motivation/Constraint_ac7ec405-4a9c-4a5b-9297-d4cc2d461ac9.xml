@@ -1,4 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NFR007: the solution need to be DevOps completed"
-    id="ac7ec405-4a9c-4a5b-9297-d4cc2d461ac9"/>
+    id="ac7ec405-4a9c-4a5b-9297-d4cc2d461ac9"
+    documentation="All the system need to be equiped &quot;by design&quot; of a complete DevOps tool chain. So the processes, the infrastructures, the scripts  need to be designed aside the operational and logic models. In other words this solution need a specific deliverbles i.e. the devops model."/>

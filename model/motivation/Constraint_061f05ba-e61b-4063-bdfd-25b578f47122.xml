@@ -1,4 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NFR003: the solution need to be compatible with campus BC architecture"
-    id="061f05ba-e61b-4063-bdfd-25b578f47122"/>
+    id="061f05ba-e61b-4063-bdfd-25b578f47122"
+    documentation="Solution (in production and certification environments) need to consider Business Continuity topology. In other word the  solution need to work with a stretched metropolitan data center logic with 2 elaboration/disk site at 5-6 KM each other. The takeover between site need to be &quot;business invisible&quot;. "/>

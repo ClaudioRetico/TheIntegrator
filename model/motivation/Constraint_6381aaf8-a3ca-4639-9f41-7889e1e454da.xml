@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NFR009: solution need to be completly backupable using current backup systems"
+    id="6381aaf8-a3ca-4639-9f41-7889e1e454da"
+    documentation="Actually is in place a Symantec backup enterprise architecture. The Solution need to be integrated with that archiecture"/>

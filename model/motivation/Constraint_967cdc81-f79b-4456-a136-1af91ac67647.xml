@@ -1,4 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NFR002: The solution operational model need to be structured in 4 operational environments"
-    id="967cdc81-f79b-4456-a136-1af91ac67647"/>
+    name="NFR002: The solution operational model need to be structured in 5 operational environments"
+    id="967cdc81-f79b-4456-a136-1af91ac67647"
+    documentation="In operational and DevOps processes definition need to be defined 4 operational environments:&#xD;&#xA;- Development (not in DR or HA)&#xD;&#xA;- Functional Test (not in DR but in HA)&#xD;&#xA;- Certification (in DR and in HA/BC) with a topology equal to production and a scale factor between 33% and 50%&#xD;&#xA;- Production (in DR and HA/BC)&#xD;&#xA;- DR (in HA) that mirror Production environment"/>
