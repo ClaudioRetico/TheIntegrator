@@ -1,5 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FR006: For new API exposition use a standard data model"
-    id="a65f7389-b9e8-4637-8d92-f47adb0fa15b"
-    documentation="In new API's (like PSD2 one) CQRS definition propose a banking industry standard in business enetities modeling"/>

@@ -1,5 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NFR006: The solution need to be container based"
-    id="e2f48e84-adac-4620-842b-8b0a060caa0f"
-    documentation="The solution need to be designed using a microservices conteinerized architecture"/>
