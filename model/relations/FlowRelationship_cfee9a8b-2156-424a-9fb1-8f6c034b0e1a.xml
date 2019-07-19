@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Observability flow"
+    id="cfee9a8b-2156-424a-9fb1-8f6c034b0e1a">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_3676bf7d-9c19-4146-971a-e55e5dafef02.xml#3676bf7d-9c19-4146-971a-e55e5dafef02"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_020f50b9-a5c8-4a19-be1e-041c0a846a8d.xml#020f50b9-a5c8-4a19-be1e-041c0a846a8d"/>
+</archimate:FlowRelationship>
